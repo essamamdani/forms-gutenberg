@@ -5,7 +5,7 @@
  * Description: The form builder plugin for WordPress Gutenberg editor. Build forms directly within Gutenberg editor live. Add & arrange form fields like blocks.
  * Author: essamamdani
  * Author URI: http://www.essamamdani.com
- * Version: 1.0.2
+ * Version: 1.0.3
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
