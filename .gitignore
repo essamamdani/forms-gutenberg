@@ -8,3 +8,6 @@ block/gutenberg-forms/*.js
 block/gutenberg-forms/*.scss
 block/.DS_Store
 block/gutenberg-forms/.DS_Store
+/.history
+/.vscode
+/.code
