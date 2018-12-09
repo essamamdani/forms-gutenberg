@@ -1,0 +1,10 @@
+.idea/
+node_modules/
+yarn.lock
+yarn-error.log
+package-lock.json
+block/gutenberg-forms/includes/
+block/gutenberg-forms/*.js
+block/gutenberg-forms/*.scss
+block/.DS_Store
+block/gutenberg-forms/.DS_Store
